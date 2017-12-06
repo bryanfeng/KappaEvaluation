@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 # 脚本用途：根据所有用户平均值和单个用户原始数据，得到矩阵后，算出kappa值
 # 脚本使用方法：
-# getMatrix.py  平均值文件 用户原始文件
+# getKappa-new.py  平均值文件 
 import sys
 
 reload(sys)
